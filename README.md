@@ -7,8 +7,8 @@ Estamos tentando explicar o nivel dos preços das casas
                 MINIMOS QUADRADOS ORDINARIOS
 ==============================================================================
 Dep. Variable:            House Price   R-squared:                       0.678 -> Valor do R quadrado demonstra e siginifica que nossa variave independente
-Model:                            OLS   Adj. R-squared:                  0.660    que é o tamanho da casa pode explicar 68% da variavel dependente que é o valor da casa.
-Method:                 Least Squares   F-statistic:                     37.95    por ser acima de 30% nosso modelo tem um bom modelo explicativo
+Model:                            OLS   Adj. R-squared:                  0.660     que é o tamanho da casa pode explicar 68% da variavel dependente que é o valor da casa.
+Method:                 Least Squares   F-statistic:                     37.95     por ser acima de 30% nosso modelo tem um bom modelo explicativo
 Date:                Tue, 06 Oct 2020   Prob (F-statistic):           8.13e-06
 
 
